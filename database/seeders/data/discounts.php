@@ -1,0 +1,43 @@
+<?php
+
+return [
+    [
+        'code'        => 'SUSCRIPCION5',
+        'created_at'  => '2025-09-03T20:11:12.066Z',
+        'enabled'     => true,
+        'ends_at'     => null,
+        'rule_id'     => 1506203664523,
+        'starts_at'   => '2025-06-18T23:13:03-05:00',
+        'title'       => 'SUSCRIPCION5',
+        'usage_count' => null,
+        'usage_limit' => null,
+        'value'       => '-5.0',
+        'value_type'  => 'percentage',
+    ],
+    [
+        'code'        => 'SUSCRIPCION30',
+        'created_at'  => '2025-09-03T20:11:12.310Z',
+        'enabled'     => true,
+        'ends_at'     => null,
+        'rule_id'     => 1505816346763,
+        'starts_at'   => '2025-06-18T23:13:03-05:00',
+        'title'       => 'SUSCRIPCION30',
+        'usage_count' => null,
+        'usage_limit' => null,
+        'value'       => '-30.0',
+        'value_type'  => 'percentage',
+    ],
+    [
+        'code'        => 'FIXED_PROMOTION',
+        'created_at'  => '2025-09-03T20:11:11.757Z',
+        'enabled'     => true,
+        'ends_at'     => null,
+        'rule_id'     => 1506203861131,
+        'starts_at'   => '2025-06-20T22:49:43-05:00',
+        'title'       => 'FIXED_PROMOTION',
+        'usage_count' => null,
+        'usage_limit' => null,
+        'value'       => '-30.0',
+        'value_type'  => 'fixed_amount',
+    ],
+];
